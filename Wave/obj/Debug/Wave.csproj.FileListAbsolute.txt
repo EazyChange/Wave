@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Wave\Wave\bin\Debug\Wave.exe.config
+C:\Users\Administrator\Desktop\Wave\Wave\bin\Debug\Wave.exe
+C:\Users\Administrator\Desktop\Wave\Wave\bin\Debug\Wave.pdb
+C:\Users\Administrator\Desktop\Wave\Wave\obj\Debug\Wave.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Wave\Wave\obj\Debug\Wave.Form1.resources
+C:\Users\Administrator\Desktop\Wave\Wave\obj\Debug\Wave.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Wave\Wave\obj\Debug\Wave.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Wave\Wave\obj\Debug\Wave.exe
+C:\Users\Administrator\Desktop\Wave\Wave\obj\Debug\Wave.pdb
+C:\Users\Administrator\Desktop\Wave\Wave\bin\Debug\TeeChart.dll
+C:\Users\Administrator\Desktop\Wave\Wave\obj\Debug\Wave.Form2.resources
+C:\Users\Administrator\Desktop\Wave20160619解决问题\Wave\bin\Debug\Wave.exe.config
+C:\Users\Administrator\Desktop\Wave20160619解决问题\Wave\obj\Debug\Wave.exe
+C:\Users\Administrator\Desktop\Wave20160619解决问题\Wave\obj\Debug\Wave.pdb
+E:\我的程序\Wave20160619解决问题\Wave\bin\Debug\Wave.exe.config
+E:\我的程序\Wave20160619解决问题\Wave\obj\Debug\Wave.exe
+E:\我的程序\Wave20160619解决问题\Wave\obj\Debug\Wave.pdb

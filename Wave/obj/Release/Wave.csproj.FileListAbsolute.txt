@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Wave\Wave\bin\Release\Wave.exe.config
+C:\Users\Administrator\Desktop\Wave\Wave\bin\Release\Wave.exe
+C:\Users\Administrator\Desktop\Wave\Wave\bin\Release\Wave.pdb
+C:\Users\Administrator\Desktop\Wave\Wave\bin\Release\TeeChart.dll
+C:\Users\Administrator\Desktop\Wave\Wave\obj\Release\Wave.Form1.resources
+C:\Users\Administrator\Desktop\Wave\Wave\obj\Release\Wave.Form2.resources
+C:\Users\Administrator\Desktop\Wave\Wave\obj\Release\Wave.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Wave\Wave\obj\Release\Wave.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Wave\Wave\obj\Release\Wave.exe
+C:\Users\Administrator\Desktop\Wave\Wave\obj\Release\Wave.pdb
+C:\Users\Administrator\Desktop\Wave\Wave\obj\Release\Wave.csprojResolveAssemblyReference.cache
