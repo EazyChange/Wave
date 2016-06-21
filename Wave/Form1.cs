@@ -18,7 +18,7 @@ using System.Management;
  * win7（32，64位）。
  * 打开某些系统c盘文件遍历可能为空，可能是系统防火墙或360等。建议把文件放在c盘以外的地方
  */
-//1234564112   
+//123456411212121   
 namespace Wave
 {
     public partial class Form1 : Form
